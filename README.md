@@ -4,13 +4,6 @@ This sample an example of how to create a JWT using PHP when calling the DoorDas
 
 This application targets [PHP](https://www.php.net/). The content is provided in this repository are samples and not intended for production and are not supported. 
 
-## Running Sample ##
- - Clone repository 
- - Open CLI to source folder
- - Run php -S localhost:8000
- - Open http://localhost:8000/doordash.php in browser
-
-
 ## Running Sample
 Follow these steps to run the sample app:
 1. Clone repository locally.
