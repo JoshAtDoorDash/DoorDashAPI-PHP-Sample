@@ -1,6 +1,6 @@
 # DoorDash API PHP Sample
 
-This sample an example of how to create a JWT using PHP when calling the DoorDash API. It builds a token that is valid for 30 minutes. Please obtain a set of DoorDash Credentials (Developer ID, Key ID, and Signing Secret) in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials) to use in the application. 
+This sample is an example of how to create a JWT using PHP when calling the DoorDash API. It builds a token that is valid for 30 minutes. Please obtain a set of DoorDash Credentials (Developer ID, Key ID, and Signing Secret) in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials) to use in the application. 
 
 This application targets [PHP](https://www.php.net/). The content is provided in this repository are samples and not intended for production and are not supported. 
 
