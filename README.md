@@ -16,7 +16,7 @@ Follow these steps to run the sample app:
 1. Clone repository locally.
 2. Navigate to the source folder in a CLI.
 3. Run ``php -S localhost:8000`` in the CLI.
-4. Open a browser and open ``http://localhost:8000/doordash.php`` location.
+4. Open a browser and open the ``http://localhost:8000/doordash.php`` location.
 
 ## More About DoorDash Credentials
 - [DoorDash JWT Format](https://developer.doordash.com/en-US/docs/drive/reference/JWTs/)
