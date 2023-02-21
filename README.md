@@ -9,7 +9,7 @@ This application targets [PHP](https://www.php.net/). The content is provided in
 ## Running Sample
 Follow these steps to run the sample app:
 1. Clone repository locally.
-2. Navigate to the source folder in a CLI.
+2. Open a terminal and navigate to the source folder.
 3. Run ``php -S localhost:8000`` in the CLI.
 4. Open a browser and open the ``http://localhost:8000/doordash.php`` location.
 
